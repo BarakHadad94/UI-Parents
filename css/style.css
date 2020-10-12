@@ -515,6 +515,8 @@ p {
   height: 100%;
   width: 100%;
   display: block;
+  max-width:100%;
+  height:auto;
 }
 .wrap-hero-content{
   width: 100%;
@@ -925,6 +927,8 @@ ul.portfolio-image li .desc{
   height: 100%;
   float: left;
   border: 1px solid black;
+  max-width:100%;
+  height:auto;
 }
 .bg-about2 {
   background: url('../images/reza2.jpg');
@@ -941,6 +945,8 @@ ul.portfolio-image li .desc{
   height: 100%;
   float: left;
   border: 1px solid black;
+  max-width:100%;
+  height:auto;
 }
 .wrap-about {
   height: 100%;

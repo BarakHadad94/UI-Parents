@@ -19,8 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="987fc43e-bc6e-4925-a991-507857049f14" name="Default Changelist" comment="with language button">
+    <list default="true" id="987fc43e-bc6e-4925-a991-507857049f14" name="Default Changelist" comment="new tab when pressing an image">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +54,7 @@
       <workItem from="1602059636105" duration="16336000" />
       <workItem from="1602149496624" duration="3822000" />
       <workItem from="1602254909056" duration="29478000" />
-      <workItem from="1602490731311" duration="464000" />
+      <workItem from="1602490731311" duration="2704000" />
     </task>
     <task id="LOCAL‎00001" summary="maybe needs to change roof pic, still without language option">
       <created>1602150736586</created>
@@ -73,7 +74,13 @@
       <option name="presentableId" value="LOCAL‎00003" />
       <updated>1602408284987</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL‎00004" summary="new tab when pressing an image">
+      <created>1602491392505</created>
+      <option name="number" value="LOCAL‎00004" />
+      <option name="presentableId" value="LOCAL‎00004" />
+      <updated>1602491392505</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,12 +102,13 @@
     <MESSAGE value="maybe needs to change roof pic, still without language option" />
     <MESSAGE value="with final roof image" />
     <MESSAGE value="with language button" />
-    <option name="LAST_COMMIT_MESSAGE" value="with language button" />
+    <MESSAGE value="new tab when pressing an image" />
+    <option name="LAST_COMMIT_MESSAGE" value="new tab when pressing an image" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602408294880">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602491401344">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602408294880" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602491401344" />
   </component>
 </project>
