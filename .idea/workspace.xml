@@ -19,8 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="987fc43e-bc6e-4925-a991-507857049f14" name="Default Changelist" comment="check mobile 1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="987fc43e-bc6e-4925-a991-507857049f14" name="Default Changelist" comment="check mobile 2">
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +52,7 @@
       <workItem from="1602059636105" duration="16336000" />
       <workItem from="1602149496624" duration="3822000" />
       <workItem from="1602254909056" duration="29478000" />
-      <workItem from="1602490731311" duration="3998000" />
+      <workItem from="1602490731311" duration="4298000" />
     </task>
     <task id="LOCAL‎00001" summary="maybe needs to change roof pic, still without language option">
       <created>1602150736586</created>
@@ -85,7 +84,13 @@
       <option name="presentableId" value="LOCAL‎00005" />
       <updated>1602518185628</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL‎00006" summary="check mobile 2">
+      <created>1602519699880</created>
+      <option name="number" value="LOCAL‎00006" />
+      <option name="presentableId" value="LOCAL‎00006" />
+      <updated>1602519699880</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,12 +114,13 @@
     <MESSAGE value="with language button" />
     <MESSAGE value="new tab when pressing an image" />
     <MESSAGE value="check mobile 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="check mobile 1" />
+    <MESSAGE value="check mobile 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="check mobile 2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602518190969">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602519704242">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602518190969" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602519704242" />
   </component>
 </project>

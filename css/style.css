@@ -36,6 +36,11 @@ TABLE OF CONTENTS:
   font-weight: normal;
   font-style: normal;
 }
+@media only screen and (max-width:620px) {
+  /* For mobile phones: */
+  .bg-about, .bg-about2 {
+    width:100%;
+  }
 *,
 *:after,
 *:before {
