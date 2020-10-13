@@ -1007,9 +1007,9 @@ ul.portfolio-image li .desc{
     min-height: 660px;
     width: 100%;
     height: auto;
-    object-fit: cover;
+    object-fit: contain;
     float: left;
-    border: 3px solid red;
+    border: 3px solid black;
   }
   .bg-about2 {
     background: url('../images/reza2.jpg');
