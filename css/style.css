@@ -1004,11 +1004,11 @@ ul.portfolio-image li .desc{
     position: relative;
     padding: 0;
     margin: 3px;
-    min-height: 660px;
-    width: 85%;
+    /*min-height: 660px;*/
+    max-width: 100%;
     height: auto;
     float: left;
-    border: 3px solid green;
+    border: 3px solid gray;
   }
   .bg-about2 {
     background: url('../images/reza2.jpg');
