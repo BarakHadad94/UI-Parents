@@ -999,7 +999,7 @@ ul.portfolio-image li .desc{
     /*-webkit-background-size: cover;*/
     /*-moz-background-size: cover;*/
     /*-o-background-size: cover;*/
-    /*background-size: cover;*/
+    background-size: contain;
     /*background-repeat: no-repeat;*/
     position: relative;
     padding: 0;
