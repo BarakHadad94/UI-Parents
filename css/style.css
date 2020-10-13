@@ -1005,8 +1005,8 @@ ul.portfolio-image li .desc{
     padding: 0;
     margin: 3px;
     min-height: 660px;
-    width: 50%;
-    height: 100%;
+    max-width: 100%;
+    height: auto;
     float: left;
     border: 1px solid black;
   }
