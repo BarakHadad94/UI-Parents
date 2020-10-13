@@ -995,7 +995,7 @@ ul.portfolio-image li .desc{
     width: 100%;
   }
   .bg-about {
-    background: url('../images/reza.jpg');
+    background: url('../images/reza3.jpg');
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -1007,9 +1007,8 @@ ul.portfolio-image li .desc{
     min-height: 660px;
     width: 100%;
     height: auto;
-    object-fit: contain;
     float: left;
-    border: 3px solid black;
+    border: 1px solid black;
   }
   .bg-about2 {
     background: url('../images/reza2.jpg');
