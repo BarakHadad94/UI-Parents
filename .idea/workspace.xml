@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="987fc43e-bc6e-4925-a991-507857049f14" name="Default Changelist" comment="check mobile 4" />
+    <list default="true" id="987fc43e-bc6e-4925-a991-507857049f14" name="Default Changelist" comment="check mobile 5">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +53,7 @@
       <workItem from="1602059636105" duration="16336000" />
       <workItem from="1602149496624" duration="3822000" />
       <workItem from="1602254909056" duration="29478000" />
-      <workItem from="1602490731311" duration="6024000" />
+      <workItem from="1602490731311" duration="6758000" />
     </task>
     <task id="LOCAL‎00001" summary="maybe needs to change roof pic, still without language option">
       <created>1602150736586</created>
@@ -100,7 +103,13 @@
       <option name="presentableId" value="LOCAL‎00008" />
       <updated>1602523591959</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL‎00009" summary="check mobile 5">
+      <created>1602523756222</created>
+      <option name="number" value="LOCAL‎00009" />
+      <option name="presentableId" value="LOCAL‎00009" />
+      <updated>1602523756222</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,12 +136,13 @@
     <MESSAGE value="check mobile 2" />
     <MESSAGE value="check mobile 3" />
     <MESSAGE value="check mobile 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="check mobile 4" />
+    <MESSAGE value="check mobile 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="check mobile 5" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602523601423">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602523761283">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602523601423" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602523761283" />
   </component>
 </project>
