@@ -19,8 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="987fc43e-bc6e-4925-a991-507857049f14" name="Default Changelist" comment="with prices">
-      <change beforePath="$PROJECT_DIR$/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
+    <list default="true" id="987fc43e-bc6e-4925-a991-507857049f14" name="Default Changelist" comment="updated shower picture">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +57,8 @@
       <workItem from="1602671924680" duration="11471000" />
       <workItem from="1602782185706" duration="95000" />
       <workItem from="1602837099476" duration="1598000" />
+      <workItem from="1603000556517" duration="520000" />
+      <workItem from="1604672370904" duration="335000" />
     </task>
     <task id="LOCAL‎00001" summary="maybe needs to change roof pic, still without language option">
       <created>1602150736586</created>
@@ -225,7 +228,13 @@
       <option name="presentableId" value="LOCAL‎00028" />
       <updated>1602838695684</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL‎00029" summary="updated shower picture">
+      <created>1603000864049</created>
+      <option name="number" value="LOCAL‎00029" />
+      <option name="presentableId" value="LOCAL‎00029" />
+      <updated>1603000864049</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -268,12 +277,13 @@
     <MESSAGE value="check for mobile" />
     <MESSAGE value="ready for mobile" />
     <MESSAGE value="with prices" />
-    <option name="LAST_COMMIT_MESSAGE" value="with prices" />
+    <MESSAGE value="updated shower picture" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated shower picture" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602838700433">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1603000878996">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602838700433" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1603000878996" />
   </component>
 </project>
