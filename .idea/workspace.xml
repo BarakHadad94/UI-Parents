@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="987fc43e-bc6e-4925-a991-507857049f14" name="Default Changelist" comment="new pictures and email">
+    <list default="true" id="987fc43e-bc6e-4925-a991-507857049f14" name="Default Changelist" comment="switched phone numbers places">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -61,7 +61,10 @@
       <workItem from="1604672370904" duration="1079000" />
       <workItem from="1604673990654" duration="14000" />
       <workItem from="1604905268124" duration="2619000" />
-      <workItem from="1604909406074" duration="146000" />
+      <workItem from="1604909406074" duration="213000" />
+      <workItem from="1608111883652" duration="738000" />
+      <workItem from="1609234221007" duration="1189000" />
+      <workItem from="1616516558746" duration="1054000" />
     </task>
     <task id="LOCAL‎00001" summary="maybe needs to change roof pic, still without language option">
       <created>1602150736586</created>
@@ -249,7 +252,13 @@
       <option name="presentableId" value="LOCAL‎00031" />
       <updated>1604907291114</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL‎00032" summary="switched phone numbers places">
+      <created>1604909603183</created>
+      <option name="number" value="LOCAL‎00032" />
+      <option name="presentableId" value="LOCAL‎00032" />
+      <updated>1604909603183</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -268,7 +277,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="with language button" />
     <MESSAGE value="new tab when pressing an image" />
     <MESSAGE value="check mobile 1" />
     <MESSAGE value="check mobile 2" />
@@ -293,16 +301,17 @@
     <MESSAGE value="updated shower picture" />
     <MESSAGE value="four siblings fix" />
     <MESSAGE value="new pictures and email" />
-    <option name="LAST_COMMIT_MESSAGE" value="new pictures and email" />
+    <MESSAGE value="switched phone numbers places" />
+    <option name="LAST_COMMIT_MESSAGE" value="switched phone numbers places" />
   </component>
   <component name="WindowStateProjectService">
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1604674002692">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1604674002692" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1604907299605">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1604909608321">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1604907299605" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1604909608321" />
   </component>
 </project>
