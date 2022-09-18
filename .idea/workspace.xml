@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="987fc43e-bc6e-4925-a991-507857049f14" name="Default Changelist" comment="switched phone numbers places">
+    <list default="true" id="987fc43e-bc6e-4925-a991-507857049f14" name="Default Changelist" comment="updated prices per person">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -39,7 +39,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/WebstormProjects/Disease-Protein-Visualization" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -64,7 +64,11 @@
       <workItem from="1604909406074" duration="213000" />
       <workItem from="1608111883652" duration="738000" />
       <workItem from="1609234221007" duration="1189000" />
-      <workItem from="1616516558746" duration="1054000" />
+      <workItem from="1616516558746" duration="1645000" />
+      <workItem from="1622710729484" duration="234000" />
+      <workItem from="1636194128449" duration="451000" />
+      <workItem from="1639414959985" duration="1691000" />
+      <workItem from="1663431474786" duration="2325000" />
     </task>
     <task id="LOCAL‎00001" summary="maybe needs to change roof pic, still without language option">
       <created>1602150736586</created>
@@ -258,7 +262,13 @@
       <option name="presentableId" value="LOCAL‎00032" />
       <updated>1604909603183</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL‎00033" summary="updated prices per person">
+      <created>1616517690311</created>
+      <option name="number" value="LOCAL‎00033" />
+      <option name="presentableId" value="LOCAL‎00033" />
+      <updated>1616517690311</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -277,7 +287,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="new tab when pressing an image" />
     <MESSAGE value="check mobile 1" />
     <MESSAGE value="check mobile 2" />
     <MESSAGE value="check mobile 3" />
@@ -302,16 +311,13 @@
     <MESSAGE value="four siblings fix" />
     <MESSAGE value="new pictures and email" />
     <MESSAGE value="switched phone numbers places" />
-    <option name="LAST_COMMIT_MESSAGE" value="switched phone numbers places" />
+    <MESSAGE value="updated prices per person" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated prices per person" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1604674002692">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1639415188277">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1604674002692" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1604909608321">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1604909608321" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1639415188277" />
   </component>
 </project>
